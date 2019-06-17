@@ -1,7 +1,7 @@
 ---
 services: Appservice
 platforms: java
-author: jianghaolu
+author: yaohaizh
 ---
 
 ## Getting Started with Appservice - Manage Web App Cosmos Db Through Key Vault - in Java ##
