@@ -9,7 +9,7 @@ extensions:
   platforms: java
 ---
 
-# Getting Started with Appservice - Manage Web App Cosmos Db Through Key Vault - in Java #
+# Getting Started with Appservice - Manage Web App Cosmos DB Through Key Vault - in Java #
 
 
   Azure App Service basic sample for managing web apps.
